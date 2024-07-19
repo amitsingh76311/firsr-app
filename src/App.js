@@ -5,6 +5,10 @@ function App() {
   return (
     <div className="App">
    <h1>amit singh sekhawat</h1>
+   <h1>amit singh sekhawat</h1>
+
+   <h1>amit singh sekhawat</h1>
+
     </div>
   );
 }
