@@ -8,7 +8,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+<<<<<<< HEAD
     {/* app comp calling */}
+=======
+    {/* component calling */}
+>>>>>>> 4dde27e0b8e978e3fa01da06154bb86a748de874
   </React.StrictMode>
 );
 
